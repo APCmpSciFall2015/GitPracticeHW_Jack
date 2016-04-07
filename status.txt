@@ -1,0 +1,9 @@
+* master:
+myinfo
+develop1
+* develop:
+develop2
+develop3
+* newfeature:
+newfeature
+status
